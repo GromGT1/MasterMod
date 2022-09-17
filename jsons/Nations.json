@@ -1,0 +1,21 @@
+[
+{
+  "name": "Gamemaster nation",
+  "leaderName": "GM",
+  "adjective": ["Gamemasteric"],
+  "prefferedVictoryType": "Diplomatic",
+  "introduction": " ",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": " ",
+  "hateHello": " ",
+  "attacked": " ",
+  "declaringWar": " ",
+  "tradeRequest": " ",
+  "outerColor": [0, 148, 12]
+  "innerColor": [0, 0, 0]
+  "uniqueName": "GameMaster",
+  "uniques": ["Starts with [Satellites]", "Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+100] Sight <for [Scout] units>", "[+100] Movement <for [Embarked] units>", "[+100] Sight <for [Embarked] units>", "[+100] Movement <for [Scout] units>", "[+1000 Production] [in capital]", "[+1000 Gold] [in capital]", "Cannot build [Settler] units"],
+  "cities": ["Gym"]
+}
+]
