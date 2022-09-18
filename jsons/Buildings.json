@@ -5,6 +5,7 @@
   "cost": 1,
   "uniques": ["Provides [50] [Furs]", "Provides [50] [Cotton]", "Provides [50] [Dyes]", "Provides [50] [Gems]", "Provides [50] [Gold Ore]", "Provides [50] [Silver]", "Provides [50] [Incense]", "Provides [50] [Ivory]", "Provides [50] [Silk]", "Provides [50] [Spices]", "Provides [50] [Wine]", "Provides [50] [Sugar]", "Provides [50] [Marble]", "Provides [50] [Whales]","Provides [50] [Pearls]", "Provides [50] [Citrus]", "Provides [50] [Copper]", "Provides [50] [Crab]", "Provides [50] [Salt]","Provides [50] [Truffles]"]
 },
+{
   "name": "Horses",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
