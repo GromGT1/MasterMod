@@ -1,47 +1,47 @@
 [
 {
-  "name": "Resourses",
+  "name": "Ресурсы",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "uniques": ["Provides [50] [Furs]", "Provides [50] [Cotton]", "Provides [50] [Dyes]", "Provides [50] [Gems]", "Provides [50] [Gold Ore]", "Provides [50] [Silver]", "Provides [50] [Incense]", "Provides [50] [Ivory]", "Provides [50] [Silk]", "Provides [50] [Spices]", "Provides [50] [Wine]", "Provides [50] [Sugar]", "Provides [50] [Marble]", "Provides [50] [Whales]","Provides [50] [Pearls]", "Provides [50] [Citrus]", "Provides [50] [Copper]", "Provides [50] [Crab]", "Provides [50] [Salt]","Provides [50] [Truffles]"]
 },
 {
-  "name": "Horses",
+  "name": "Лошади",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "requiredTech": "Animal Husbandry",
   "uniques": ["Provides [50] [Horses]"]
 },
 {
-  "name": "Iron",
+  "name": "Железо",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "requiredTech": "Iron Working",
   "uniques": ["Provides [50] [Iron]"]
 },
 {
-  "name": "Coal",
+  "name": "Уголь",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "requiredTech": "Industrialization",
   "uniques": ["Provides [50] [Coal]"]
 },
 {
-  "name": "Oil",
+  "name": "Нефть",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "requiredTech": "Biology",
   "uniques": ["Provides [50] [Oil]"]
 },
 {
-  "name": "Uranium",
+  "name": "Уран",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "requiredTech": "Atomic Theory",
   "uniques": ["Provides [50] [Uranium]"]
 },
 {
-  "name": "Aluminum",
+  "name": "Алюминий",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
   "requiredTech": "Electricity",
