@@ -43,5 +43,29 @@
 			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
 			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
 			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock", "Old Oregon"]
-}
+},
+	{
+		"name": "Arabia",
+		"leaderName": "Harun al-Rashid",
+		"adjective": ["Arabian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Blessings of God be upon you oh great caliph Harun al-Rashid, leader of the pious Arabian people! The Muslim empire, the Caliphate was born in the turbulent years after the death of the prophet Muhammad in 632 AD, as his followers sought to extend the rule of God to all of the people of the earth. The caliphate grew mighty indeed at the height of its power, ruling Spain, North Africa, the Middle East, Anatolia, the Balkans and Persia. An empire as great as or even greater than that of Rome. The arts and sciences flourished in Arabia during the Middle Ages, even as the countries of Europe descended into ignorance and chaos. The Caliphate survived for six hundred years, until finally succumbing to attack from the Mongols, those destroyers of Empires.",
+		"startIntroPart2": "Great Caliph Harun al Rashid, your people look to you to return them to greatness! To make Arabia once again an enlightened land of arts and knowledge, a powerful nation who needs fear no enemy! Oh Caliph, will you take up the challenge? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "The world will be more beautiful without you. Prepare for war.",
+		"attacked": "Fool! You will soon regret dearly! I swear it!",
+		"defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
+		"introduction": "Welcome foreigner, I am Harun Al-Rashid, Caliph of the Arabs. Come and tell me about your empire.",
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come forth, let's do business.",
+		"outerColor": [ 41,83,42],
+		"innerColor": [146,221,9],
+		"uniqueName": "Trade Caravans",
+		"uniques": ["[+1 Gold] from each [Trade Route]", "Double quantity of [Oil] produced", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in all cities]", "[+2 Culture] [in capital]"],
+		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
+			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
+			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
+	},
 ]
