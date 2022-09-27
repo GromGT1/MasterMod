@@ -36,7 +36,7 @@
 		"outerColor": [ 28,51,119],
 		"innerColor": [255,255,255],
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["[+1] Sight <for [{Military} {Land}] units>","[-50]% Gold cost of acquiring tiles [in all cities]", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in this city]", "[+2 Culture] [in capital]"],
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>","[-50]% Gold cost of acquiring tiles [in all cities]", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in all cities]", "[+2 Culture] [in capital]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
