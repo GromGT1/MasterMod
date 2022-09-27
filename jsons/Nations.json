@@ -114,7 +114,7 @@
 		"innerColor": [88,0,154],
 		"uniqueName": "Phoenician Heritage",
 		"uniqueText": "All coastal Cities gain a free Harbor. Units may cross mountains, taking 50 HP damage if they end a turn on a mountain",
-		"uniques": ["Gain a free [Cothon] [in all coastal cities]","[Land] units gain the [Phoenician Heritage] promotion", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in all cities]", "[+2 Culture] [in capital]"],
+		"uniques": ["Gain a free [Cothon] [in all coastal cities]", "Land units may cross [Mountain] tiles after the first [Great General] is earned", "Units ending their turn on [Mountain] tiles take [50] damage", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in all cities]", "[+2 Culture] [in capital]"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
 			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula",
