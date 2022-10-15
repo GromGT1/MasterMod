@@ -187,7 +187,7 @@
 		"outerColor": [215,225,225],
 		"innerColor": [185,0,0],
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+3 Food] [in all cities]", "[+3 Production] [in all cities]", "[+1 Culture] [in all cities]", "[+2 Gold] [in all cities]", "[-5]% Production when constructing [All] units", "[-10]% [Science] [in all cities]", "[-5]% Strength <for [All] units>","[+1 Culture] from every [Fishing Boats]", "[+2 Culture] from every [Atoll]"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+3 Food] [in all cities]", "[+3 Production] [in all cities]", "[+1 Culture] [in all cities]", "[+2 Gold] [in all cities]", "[-5]% Production when constructing [All] units [in all cities]", "[-10]% [Science] [in all cities]", "[-5]% Strength <for [All] units>","[+1 Culture] from every [Fishing Boats]", "[+2 Culture] from every [Atoll]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
