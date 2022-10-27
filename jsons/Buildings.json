@@ -1,5 +1,11 @@
 [
 {
+  "name": "Фарфор",
+  "uniqueTo": "Babylon",
+  "cost": 1,
+  "uniques": ["Provides [1] [Porcelain]"]
+},
+{
   "name": "Ресурсы",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
