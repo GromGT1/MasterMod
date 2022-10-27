@@ -2,6 +2,7 @@
 {
   "name": "Фарфор",
   "uniqueTo": "Babylon",
+  "isNationalWonder": true
   "cost": 1,
   "uniques": ["Provides [1] [Porcelain]"]
 },
