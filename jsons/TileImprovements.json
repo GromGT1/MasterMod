@@ -12,7 +12,7 @@
 	},
 {
   "name": "Фестиваль",
-  "terrainsCanBeBuiltOn": ["Mountain"],
+  "terrainsCanBeBuiltOn": ["Mountain <with [1] to [6] neighboring [Road] tiles>"],
   "uniques": ["Tile provides yield without assigned population", "Cannot be built on [Plains] tiles", "Cannot be built on [Grassland] tiles", "Cannot be built on [Desert] tiles", "Cannot be built on [Snow] tiles", "Cannot be built on [Tundra] tiles", "Cannot be built on [Water] tiles"]
 }
 ]
