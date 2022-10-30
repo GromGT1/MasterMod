@@ -9,5 +9,10 @@
 			"[+1 Food] on [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] on [non-fresh water] tiles <after discovering [Fertilizer]>"],
 		"shortcutKey": "F"
-	}
+	},
+{
+  "name": "Фестиваль",
+  "terrainsCanBeBuiltOn": ["Mountain"],
+  "uniques": ["Tile provides yield without assigned population", "Cannot be built on [Plains] tiles", "Cannot be built on [Grassland] tiles", "Cannot be built on [Desert] tiles", "Cannot be built on [Snow] tiles", "Cannot be built on [Tundra] tiles", "Cannot be built on [Water] tiles"]
+}
 ]
