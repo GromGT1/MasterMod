@@ -66,5 +66,65 @@
 			"Can only be built [in annexed cities]"],
 		"requiredTech": "Mathematics"
 	},
+{
+  "name": "Фестиваль здание1",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание2",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание3",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание4",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание5",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание6",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание7",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание8",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание9",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+},
+{
+  "name": "Фестиваль здание10",
+  "uniqueTo": "Japan",
+  "cost": 1,
+  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
+}
 ]
 
