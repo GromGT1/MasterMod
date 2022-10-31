@@ -88,7 +88,7 @@
 		"outerColor": [53,0,87],
 		"innerColor": [238,201,9],
 		"uniqueName": "Ingenuity",
-		"uniques": ["Receive free [Great Scientist] when you discover [Philosophy]","[Great Scientist] is earned [50]% faster", "[+1 Happiness] per [3] population [in all cities]", "[+15]% Production when constructing [All] buildings [in all cities]", "[-5]% [Gold] [in all cities]", "[+3 Culture] [in capital]"],
+		"uniques": ["Receive free [Great Scientist] when you discover [Philosophy]","[Great Scientist] is earned [50]% faster", "[+1 Happiness] per [3] population [in all cities]", "[+15]% Production when constructing [All] buildings [in all cities]", "[-5]% [Gold] [in all cities]", "[+3 Culture] [in capital]", "[-2 Food] [in all cities]"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
