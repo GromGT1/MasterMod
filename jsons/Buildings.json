@@ -1,19 +1,5 @@
 [
 {
-  "name": "2 Технологии",
-  "cost": 2,
-  "uniqueTo": "Arabia",
-  "isNationalWonder": true,
-  "uniques": ["[2] Free Technologies"]
-},
-{
-  "name": "Фарфор",
-  "uniqueTo": "Babylon",
-  "isNationalWonder": true,
-  "cost": 2,
-  "uniques": ["Provides [1] [Porcelain]"]
-},
-{
   "name": "Ресурсы",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
@@ -60,78 +46,6 @@
   "cost": 1,
   "requiredTech": "Electricity",
   "uniques": ["Provides [50] [Aluminum]"]
-},
-{
-		"name": "Engalnd East India Company",
-            "replaces": "Courthouse",
-            "uniqueTo": "England",
-		"maintenance": 0,
-		"hurryCostModifier": 0,
-		"uniques": ["Cheaper to buy", "Remove extra unhappiness from annexed cities",
-			"Provides [1] [Tea]",
-			"[+2 Gold] from [Plantation] tiles [in this city]",
-			"Can only be built [in annexed cities]"],
-		"requiredTech": "Mathematics"
-	},
-{
-  "name": "Фестиваль здание1",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание2",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание3",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание4",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание5",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание6",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание7",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание8",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание9",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
-},
-{
-  "name": "Фестиваль здание10",
-  "uniqueTo": "Japan",
-  "cost": 1,
-  "uniques": ["Creates a [Фестиваль] improvement on a specific tile"]
 }
 ]
 
