@@ -1,8 +1,15 @@
 [
 {
+  "name": "2 Технологии",
+  "cost": 2,
+  "uniqueTo": "Arabia",
+  "isNationalWonder": true,
+  "uniques": ["[2] Free Technologies"]
+},
+{
   "name": "Фарфор",
   "uniqueTo": "Babylon",
-  "isNationalWonder": true
+  "isNationalWonder": true,
   "cost": 2,
   "uniques": ["Provides [1] [Porcelain]"]
 },
