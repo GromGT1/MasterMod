@@ -63,7 +63,7 @@
 		"outerColor": [ 41,83,42],
 		"innerColor": [146,221,9],
 		"uniqueName": "Trade Caravans",
-		"uniques": ["[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in all cities]", "[+2 Culture] [in capital]"],
+		"uniques": ["[-5]% [Production] [in all cities]", "[-1 Food] [in all cities]", "[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced", "[+1 Happiness] per [3] population [in all cities]", "[-1 Production] per [3] population [in all cities]", "[+5]% Production when constructing [Land] units [in all cities]", "[+2 Culture] [in capital]"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
@@ -88,7 +88,7 @@
 		"outerColor": [53,0,87],
 		"innerColor": [238,201,9],
 		"uniqueName": "Ingenuity",
-		"uniques": ["Gain a free [Фарфор] [in capital]", "Receive free [Great Scientist] when you discover [Philosophy]","[Great Scientist] is earned [50]% faster", "[+1 Happiness] per [3] population [in all cities]", "[+15]% Production when constructing [All] buildings [in all cities]", "[-5]% [Gold] [in all cities]", "[+3 Culture] [in capital]", "[-2 Food] [in all cities]"],
+		"uniques": ["[+5]% [Production] [in all cities]", "[+1 Food] [in all cities]", "Gain a free [Фарфор] [in capital]", "Receive free [Great Scientist] when you discover [Philosophy]","[Great Scientist] is earned [50]% faster", "[+1 Happiness] per [3] population [in all cities]", "[+15]% Production when constructing [All] buildings [in all cities]", "[-5]% [Gold] [in all cities]", "[+3 Culture] [in capital]", "[-2 Food] [in all cities]"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
