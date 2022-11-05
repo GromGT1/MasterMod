@@ -17,5 +17,32 @@
   "uniqueName": "GameMaster",
   "uniques": ["[-100]% tile improvement construction time","Starts with [Satellites]", "Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+100] Sight <for [Scout] units>", "[+100] Movement <for [Embarked] units>", "[+100] Sight <for [Embarked] units>", "[+100] Movement <for [Scout] units>", "[+1000 Production] [in capital]", "[+1000 Gold] [in capital]", "Cannot build [Settler] units", "[Land] units gain the [Способность] promotion", "[Water] units gain the [Способность] promotion", "[1] Movement point cost to disembark <for [All] units>", "[1] Movement point cost to embark <for [All] units>", "May buy [Great Scientist] units for [0] [Faith] [in all cities]", "May buy [Great Artist] units for [0] [Faith] [in all cities]", "May buy [Great Engineer] units for [0] [Faith] [in all cities]", "May buy [Great General] units for [0] [Faith] [in all cities]", "May buy [Great Merchant] units for [0] [Faith] [in all cities]", "May buy [Great Prophet] units for [0] [Faith] [in all cities]", "[+100] Movement <for [Civilian] units>"],
   "cities": ["Gym"]
-}
+},
+{
+		"name": "England",
+		"leaderName": "Elizabeth",
+		"adjective": ["English"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Praises upon her serene highness, Queen Elizabeth Gloriana. You lead and protect the celebrated maritime nation of England. England is an ancient land, settled as early as 35,000 years ago. The island has seen countless waves of invaders, each in turn becoming a part of the fabric of the people. Although England is a small island, for many years your people dominated the world stage. Their matchless navy, brilliant artists and shrewd merchants, giving them power and influence far in excess of their mere numbers.",
+		"startIntroPart2": "Queen Elizabeth, will you bring about a new golden age for the English people? They look to you once more to return peace and prosperity to the nation. Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "By the grace of God, your days are numbered.",
+		"attacked": "We shall never surrender.",
+		"defeated": "You have triumphed over us. The day is yours.",
+		"introduction": "We are pleased to meet you.",
+		"neutralHello": "Hello, again.",
+		"hateHello": "Oh, it's you!",
+		"tradeRequest": "Would you be interested in a trade agreement with England?",
+		"outerColor": [ 114, 0, 0],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Sun Never Sets",
+		"uniques": ["[+2] Movement <for [Water] units>", "[-5]% [Production] [in all cities]"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+    }
 ]
