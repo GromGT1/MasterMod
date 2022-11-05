@@ -1,5 +1,17 @@
 [
 {
+		"name": "England East India Company",
+            "replaces": "Courthouse",
+            "uniqueTo": "England",
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"uniques": ["Cheaper to buy", "Remove extra unhappiness from annexed cities",
+			"Provides [1] [Tea]",
+			"[+2 Gold] from [Plantation] tiles [in this city]",
+			"Can only be built [in annexed cities]"],
+		"requiredTech": "Mathematics"
+	},
+{
   "name": "Ресурсы",
   "uniqueTo": "Gamemaster nation",
   "cost": 1,
