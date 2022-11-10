@@ -38,7 +38,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "[-5]% [Production] [in all cities]", "[+5]% [Gold] [in capital]", "[+1] per [3] population [in all cities]", "[-1 Science] per [3] population [in all cities]", ""],
+		"uniques": ["[+2] Movement <for [Water] units>", "[-5]% [Production] [in all cities]", "[+5]% [Gold] [in capital]", "[+1] per [3] population [in all cities]", "[-1 Science] per [3] population [in all cities]", "[+10]% growth [in all cities]"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
