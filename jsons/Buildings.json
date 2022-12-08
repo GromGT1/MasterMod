@@ -1,5 +1,53 @@
 [
 {
+  "name": "England -2 production",
+  "uniqueTo": "England",
+  "production": -2,
+  "uniques": [ ]
+},
+{
+  "name": "England -1 production",
+  "uniqueTo": "England",
+  "production": -1,
+  "uniques": [ ]
+},
+{
+  "name": "Babylon -2 production",
+  "uniqueTo": "Babylon",
+  "production": -2,
+  "uniques": [ ]
+},
+{
+  "name": "Babylon -1 production",
+  "uniqueTo": "Babylon",
+  "production": -1,
+  "uniques": [ ]
+},
+{
+  "name": "Japan -2 production",
+  "uniqueTo": "Japan",
+  "production": -2,
+  "uniques": [ ]
+},
+{
+  "name": "Japan -1 production",
+  "uniqueTo": "Japan",
+  "production": -1,
+  "uniques": [ ]
+},
+{
+  "name": "Spain -2 production",
+  "uniqueTo": "Spain",
+  "production": -2,
+  "uniques": [ ]
+},
+{
+  "name": "Spain -1 production",
+  "uniqueTo": "Spain",
+  "production": -1,
+  "uniques": [ ]
+},
+{
 		"name": "England East India Company",
             "replaces": "Courthouse",
             "uniqueTo": "England",
