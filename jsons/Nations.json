@@ -38,7 +38,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "[+3 Production] [in all cities]", "[+3 Food] [in all cities]", "[+2 Gold] [in all cities]", "[+1 Culture] [in all cities]", "[-10]% [Science] [in all cities]", "[-10]% Production when constructing [All] units [in all cities]", "[-5]% Strength for [All] units"],
+		"uniques": ["[+2] Movement <for [Water] units>", "[+3 Production] [in all cities]", "[+3 Food] [in all cities]", "[+2 Gold] [in all cities]", "[+1 Culture] [in all cities]", "[-10]% [Science] [in all cities]", "[-10]% Production when constructing [All] units [in all cities]", "[-5]% Strength <for [All] units>"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
