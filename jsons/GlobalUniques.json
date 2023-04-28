@@ -9,6 +9,8 @@
         "Rebel units may spawn <when below [-20] Happiness>",
         "[-1] Sight <for [Embarked] units>",
         "Enables Open Borders agreements <starting from the [Ancient era]>",
+        "[-10]% Production [in all cities]",
+        "[+10]% growth [in all cities]"
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
