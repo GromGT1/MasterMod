@@ -10,7 +10,16 @@
         "[-1] Sight <for [Embarked] units>",
         "Enables Open Borders agreements <starting from the [Ancient era]>",
         "[-10]% [Production] [in all cities]",
-        "[+10]% growth [in all cities]"
+        "[+10]% growth [in all cities]",
+        "[+10]% growth [in all cities] <for [Byzantium]>", "[-5]% [Production] [in all cities] <for [Byzantium]>",
+        "[+10]% growth [in all cities] <for [Greece]>", "[-5]% [Production] [in all cities] <for [Greece]>",
+        "[-5]% [Food] [in all cities] <for [England]>", "[+10]% [Production] [in all cities] <for [England]>",
+        "[+5]% growth [in all cities] <for [Germany]>", "[+5]% Strength <for [Germany]>",
+        "[+5]% growth [in all cities] <for [Netherlands]>", "[+5]% Strength <for [Netherlands]>",
+        "[+5]% growth [in all cities] <for [Rome]>", "[+5]% Production [in all cities] <for [Rome]>",
+        "[+5]% growth [in all cities] <for [Russia]>", "[+5]% Production [in all cities] <for [Russia]>",
+        "[+5]% [Gold] [in all cities] <for [China]>", "[+5]% [Gold] from Trade Routes <for [China]>",
+        "[+5]% growth [in all cities] <for [China]>"
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
