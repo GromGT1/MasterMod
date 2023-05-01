@@ -16,8 +16,8 @@
         "[-5]% [Food] [in all cities] <for [England]>", "[+10]% [Production] [in all cities] <for [England]>",
         "[+5]% growth [in all cities] <for [Germany]>", "[+5]% Strength <for [Germany]>",
         "[+5]% growth [in all cities] <for [Netherlands]>", "[+5]% Strength <for [Netherlands]>",
-        "[+5]% growth [in all cities] <for [Rome]>", "[+5]% Production [in all cities] <for [Rome]>",
-        "[+5]% growth [in all cities] <for [Russia]>", "[+5]% Production [in all cities] <for [Russia]>",
+        "[+5]% growth [in all cities] <for [Rome]>", "[+5]% [Production] [in all cities] <for [Rome]>",
+        "[+5]% growth [in all cities] <for [Russia]>", "[+5]% [Production] [in all cities] <for [Russia]>",
         "[+5]% [Gold] [in all cities] <for [China]>", "[+5]% [Gold] from Trade Routes <for [China]>",
         "[+5]% growth [in all cities] <for [China]>"
 
