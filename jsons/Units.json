@@ -1,0 +1,54 @@
+[
+{
+
+		"name": "Nim",		"unitType": "Archery",
+
+		"uniqueTo": "Gamemaster nation",
+
+		"replaces": "Archer",
+
+		"movement": 3,
+
+		"strength": 5,
+
+		"rangedStrength": 7,
+
+		"cost": 32,
+
+		"requiredTech": "Agriculture",
+
+		"obsoleteTech": "Construction",
+
+		"uniques": ["Unlocked at Agriculture"]
+
+		"upgradesTo": "Composite Bowman",
+
+		"attackSound": "arrow"
+
+	},
+  {
+
+		"name": "Jaguar",
+
+		"unitType": "Sword",
+
+		"uniqueTo": "Gamemaster nation",
+
+		"replaces": "Warrior",
+
+		"movement": 2,
+
+		"strength": 8,
+
+		"cost": 40,
+
+		"obsoleteTech": "Metal Casting",
+
+		"promotions": ["[Jaguar] ability","Woodsman"],
+
+		"upgradesTo": "Swordsman",
+
+		"attackSound": "nonmetalhit"
+
+	},
+]
