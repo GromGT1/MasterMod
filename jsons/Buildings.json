@@ -46,6 +46,17 @@
   "cost": 1,
   "requiredTech": "Electricity",
   "uniques": ["Provides [50] [Aluminum]"]
-}
+},
+{
+  "name": "Школа инженера",
+
+
+  "cost": 1,
+
+  "greatPersonPoints": {"Great Engineer": 2
+},
+
+  "uniques": ["Cannot be purchased", "Unbuildable", "Unsellable"]
+  }
 ]
 
