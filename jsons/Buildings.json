@@ -50,12 +50,9 @@
 {
   "name": "Школа инженера",
 
-
   "cost": 1,
 
-  "greatPersonPoints": {"Great Engineer": 2
-},
-
+  "greatPersonPoints": {"Great Engineer": 2},
   "uniques": ["Cannot be purchased", "Unbuildable", "Unsellable"]
   }
 ]
