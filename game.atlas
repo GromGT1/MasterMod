@@ -1,3 +1,9 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 NationIcons/Gamemaster nation
   rotate: false
   xy: 0, 0
