@@ -49,11 +49,11 @@
 },
 {
   "name": "Школа инженера",
-
+  "uniqueTo": "Rome",
   "cost": 1,
 
   "greatPersonPoints": {"Great Engineer": 2},
-  "uniques": ["Cannot be purchased", "Unbuildable", "Unsellable"]
+  "uniques": ["Unsellable", "Only available <in cities with a [Palace]>"]
   }
   {
 
