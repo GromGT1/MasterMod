@@ -44,9 +44,9 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [9, 112, 84],
+        "outerColor": [0, 0, 0],
 
-        "innerColor": [255,255,255],
+        "innerColor": [185,12,12],
 
 		"favouredReligion": "Taoism",
 
