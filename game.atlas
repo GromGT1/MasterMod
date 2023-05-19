@@ -4,7 +4,7 @@ size: 200, 200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Gamemaster nation
+NationIcons/Rebel China
   rotate: false
   xy: 0, 0
   size: 200, 200
