@@ -21,8 +21,8 @@
         "[+1 Faith] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <for [Byzantium]>",
         "Gain a free [Школа инженера] [in capital] <for [Rome]> <after [63] turns>",
         "Gain a free [10 опыта] [in all cities] <for [Gamemaster nation]> <after [63] turns>",
-        "[+15]% [Science] [in all cities] <before the [Renaissance era]>",
-        "[+20]% [Faith] [in all cities]"
+        "[+15]% [Science] [in all cities] <before the [Renaissance era]> <for [China]>",
+        "[+20]% [Faith] [in all cities] <for [China]>"
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
