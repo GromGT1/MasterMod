@@ -20,6 +20,47 @@
 },
 {
 
+		"name": "Rebel China",		"leaderName": "Wu Zetian",
+
+		"adjective": ["Chinese"],
+
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "",
+
+        "startIntroPart2": "",
+
+        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
+
+		"attacked": "Fool! I will disembowel you all!",
+
+		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
+
+		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
+
+		"neutralHello": "How are you today?",
+
+		"hateHello": "Oh. It's you?",
+
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+        "outerColor": [9, 112, 84],
+
+        "innerColor": [255,255,255],
+
+		"favouredReligion": "Taoism",
+
+		"uniqueName": "Art of War",
+
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+
+		"cities": ["Beijing"],
+
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+
+    },
+{
+
 		"name": "Аахен",		
     "adjective": ["M'Banza-Kongo"],
 
