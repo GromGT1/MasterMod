@@ -2,28 +2,7 @@
     "name": "Global uniques",
     "uniques": [
         "Enables Open Borders agreements <starting from the [Ancient era]>",
-        "[-10]% [Production] [in all cities]",
-        "[-20]% growth [in all cities]",
-        "[+10]% growth [in all cities] <for [Byzantium]>", "[-5]% [Production] [in all cities] <for [Byzantium]>",
-        "[+10]% growth [in all cities] <for [Greece]>", "[-5]% [Production] [in all cities] <for [Greece]>",
-        "[-5]% growth [in all cities] <for [England]>", "[+10]% [Production] [in all cities] <for [England]>",
-        "[+5]% growth [in all cities] <for [Germany]>", "[+5]% Strength <for [Germany]>",
-        "[+5]% growth [in all cities] <for [Netherlands]>", "[+5]% Strength <for [Netherlands]>",
-        "[+5]% growth [in all cities] <for [Rome]>", "[+5]% [Production] [in all cities] <for [Rome]>",
-        "[+5]% growth [in all cities] <for [Russia]>", "[+5]% [Production] [in all cities] <for [Russia]>",
-        "[+5]% [Gold] [in all cities] <for [China]>", "[+5]% [Gold] from Trade Routes <for [China]>",
-        "[+5]% growth [in all cities] <for [China]>",
-        "Free [Trireme] appears <upon discovering [Optics]>",
-        "[-20]% [Gold] [in all cities] <for [Germany]>",
-        "[-20]% [Gold] [in all cities] <for [Russia]>",
-        "[+1 Gold] per [4] population [in all cities] <for [Netherlands]>",
-        "[+1 Food, +1 Gold] from [Atoll] tiles [in all cities] <with [1] to [6] neighboring [Krakatoa] tiles>",
-        "[+1 Faith] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <for [Byzantium]>",
-        "Gain a free [Школа инженера] [in capital] <for [Rome]> <after [1] turns>",
-        "Gain a free [10 опыта] [in all cities] <for [Gamemaster nation]> <after [1] turns>",
-        "[+15]% [Science] [in all cities] <before the [Modern era]> <for [China]>",
-        "[+20]% [Faith] [in all cities] <for [China]>",
-        "Gain [40000] Gold <starting from the [Ancient era]> <for [Gamemaster nation]>",
+        
         
 
         // TODO: Implement the uniques below
