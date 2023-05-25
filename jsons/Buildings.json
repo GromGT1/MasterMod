@@ -47,25 +47,6 @@
   "requiredTech": "Electricity",
   "uniques": ["Provides [50] [Aluminum]"]
 },
-{
-  "name": "Школа инженера",
-  "uniqueTo": "Rome",
-  "cost": 1,
 
-  "greatPersonPoints": {"Great Engineer": 2},
-  "uniques": ["Unsellable", "Only available <in cities with a [Palace]>"]
-  }
-  {
-
-  "name": "10 опыта",
-
-  "uniqueTo": "Gamemaster nation",
-
-  "cost": 1,
-
-
-  "uniques": ["New [Military] units start with [10] Experience [in this city]"]
-
-},
 ]
 
