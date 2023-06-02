@@ -1,6 +1,6 @@
 [
 {
 "name": "Способность",
-"uniques": ["Can move immediately once bought"]
+"uniques": ["Can move immediately once bought", "Can pass through impassable tiles"]
 }
 ]
