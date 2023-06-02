@@ -15,69 +15,7 @@
   "outerColor": [0, 0, 0]
   "innerColor": [0, 128, 10]
   "uniqueName": "GameMaster",
-  "uniques": ["[-100]% tile improvement construction time","Starts with [Satellites]", "[-1000]% [Science] [in all cities]","Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+100] Sight <for [Scout] units>", "[+100] Movement <for [All] units>", "[+100] Movement <for [Scout] units>", "[+1000 Production] [in capital]", "[+1000 Gold] [in capital]", "[Land] units gain the [Способность] promotion", "[Water] units gain the [Способность] promotion", "[1] Movement point cost to disembark <for [All] units>", "[1] Movement point cost to embark <for [All] units>", "May buy [Great Scientist] units for [0] [Faith] [in all cities]", "May buy [Great Artist] units for [0] [Faith] [in all cities]", "May buy [Great Engineer] units for [0] [Faith] [in all cities]", "May buy [Great General] units for [0] [Faith] [in all cities]", "May buy [Great Merchant] units for [0] [Faith] [in all cities]", "May buy [Great Prophet] units for [0] [Faith] [in all cities]", "[+100] Movement <for [Civilian] units>"],
+  "uniques": ["[-100]% tile improvement construction time","Starts with [Satellites]", "[-1000]% [Science] [in all cities]","Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+100] Sight <for [Scout] units>", "[+100] Movement <for [All] units>", "[+100] Movement <for [Scout] units>", "[+1000 Production] [in capital]", "[+1000 Gold] [in capital]", "[Land] units gain the [Способность] promotion", "[Water] units gain the [Способность] promotion", "[1] Movement point cost to disembark <for [All] units>", "[1] Movement point cost to embark <for [All] units>", "May buy [Great Scientist] units for [0] [Faith] [in all cities]", "May buy [Great Artist] units for [0] [Faith] [in all cities]", "May buy [Great Engineer] units for [0] [Faith] [in all cities]", "May buy [Great General] units for [0] [Faith] [in all cities]", "May buy [Great Merchant] units for [0] [Faith] [in all cities]", "May buy [Great Prophet] units for [0] [Faith] [in all cities]", "[+100] Movement <for [Civilian] units>", "Land units may cross [Mountain] tiles after the first [Worker] is earned"],
   "cities": ["Gym"]
 },
-{
-"name": "Rebel China",		
-"leaderName": "Wu Zetian",
-
-		"adjective": ["Chinese"],
-
-		"preferredVictoryType": "Scientific",
-
-        "startIntroPart1": "",
-
-        "startIntroPart2": "",
-
-        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
-
-		"attacked": "Fool! I will disembowel you all!",
-
-		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
-
-		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
-
-		"neutralHello": "How are you today?",
-
-		"hateHello": "Oh. It's you?",
-
-		"tradeRequest": "My friend, do you think you can accept this request?",
-
-        "outerColor": [0, 0, 0],
-
-        "innerColor": [185,12,12],
-
-		"favouredReligion": "Taoism",
-
-		"uniqueName": "Art of War",
-
-		"uniques": [ ],
-
-		"cities": ["Beijing"],
-
-    },
-
-{
-
-
-		"name": "Аахен",		
-    "adjective": ["M'Banza-Kongo"],
-
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
-
-		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
-
-		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
-
-		"outerColor": [0, 0, 0],
-
-		"innerColor": [185,12,12],
-
-
-		"cities": ["M'Banza-Kongo"]
-
-	},
 ]
