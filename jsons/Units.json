@@ -8,7 +8,7 @@
                 "strength": 1000,
                 "cost": 0,
                 "obsoleteTech": "Metal Casting",
-                "promotions": ["Haka War Dance"],
+                "promotions": ["Способность"],
                 "upgradesTo": "Swordsman",
                 "attackSound": "nonmetalhit"
         }
