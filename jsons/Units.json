@@ -2,7 +2,7 @@
       {
                 "name": "Метель",
                 "unitType": "Sword",
-                "uniqueTo": "Polynesia",
+                "uniqueTo": "Gamemaster nation",
                 "replaces": "Warrior",
                 "movement": 1000,
                 "strength": 1000,
