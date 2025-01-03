@@ -11,5 +11,18 @@
                 "promotions": ["Способность"],
                 "upgradesTo": "Swordsman",
                 "attackSound": "nonmetalhit"
+        },
+      {
+                "name": "Всадник апокалипсиса",
+                "unitType": "Scout",
+                "uniqueTo": "Gamemaster nation",
+                "replaces": "Scout",
+                "movement": 4,
+                "strength": 5,
+                "cost": 0,
+                "obsoleteTech": "Metal Casting",
+                "promotions": ["Способность"],
+                "upgradesTo": "Swordsman",
+                "attackSound": "nonmetalhit"
         }
 ]
