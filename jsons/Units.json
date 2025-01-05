@@ -24,5 +24,27 @@
                 "promotions": ["Способность"],
                 "upgradesTo": "Swordsman",
                 "attackSound": "nonmetalhit"
-        }
+        },
+  {
+                "name": "Алагир",
+                "unitType": "Scout",
+                "uniqueTo": "Russia",
+                "movement": 1,
+                "strength": 4,
+                "cost": 0,
+                "uniques": ["Unavailable"]
+                "upgradesTo": "Swordsman",
+                "attackSound": "nonmetalhit"
+  },
+  {
+                "name": "Фир",
+                "unitType": "Scout",
+                "uniqueTo": "Russia",
+                "movement": 4,
+                "strength": 1,
+                "cost": 0,
+                "uniques": ["Unavailable"]
+                "upgradesTo": "Swordsman",
+                "attackSound": "nonmetalhit"
+  }
 ]
