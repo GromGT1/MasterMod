@@ -1,0 +1,26 @@
+[
+{
+		"name": "Английский Лагерь",
+    "uniqueTo": "England",
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+    "gold": 4,
+		"uniques": ["Provides [1] [Furs]","Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>","Pillaging this improvement yields approximately [+10 Gold]"],
+	},
+{
+		"name": "Болгарский Лагерь",
+    "uniqueTo": "Bulgaria",
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+    "gold": 4,
+		"uniques": ["Provides [1] [Furs]","Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>","Pillaging this improvement yields approximately [+10 Gold]"],
+	},
+{
+		"name": "Норвежский Лагерь",
+    "uniqueTo": "Norway",
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+    "gold": 4,
+		"uniques": ["Provides [1] [Furs]","Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>","Pillaging this improvement yields approximately [+10 Gold]"],
+	},
+]
