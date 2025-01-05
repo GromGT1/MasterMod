@@ -2,12 +2,10 @@
     "name": "Global uniques",
     "uniques": [
         "Enables Open Borders agreements <starting from the [Ancient era]>",
-        "[+4 Food] [in capital] <for [Machinia]>",
-        "[-20]% [Food] [in all cities] <for [Tianwu]>",
-        "[-2 Food] [in capital] <for [Bulgaria]> <before turn number [25]>",
-        "[+10 Faith] [in capital] <for [Venezuela]>",
-        "[+1 Food] from [River] tiles [in capital] <for [Spain]>",
-        "[-1] Sight <for [Scout] units> <for [Norway]>",
+        "[-2 Food] [in capital] <for [Bulgaria] Civilizations> <before turn number [25]>",
+        "[+10 Faith] [in capital] <for [Venezuela] Civilizations>",
+        "[+1 Food] from [River] tiles [in capital] <for [Spain] Civilizations>",
+        "[-1] Sight <for [Scout] units> <for [Norway] Civilizations>",
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
         // "[+20]% [Production] [in all cities] <during a golden age>",
