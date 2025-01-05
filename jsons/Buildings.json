@@ -3,12 +3,18 @@
     "name": "Трейд",
     "uniqueTo": "Russia",
     "cost": 0,
-    "uniques": ["Unsellable","Free [Фир] appears","Free [Алагир] appears"]
+    "uniques": ["Unsellable","Only available <in [in capital] cities>","Free [Фир] appears","Free [Алагир] appears"]
   },
   {
     "name": "Технология",
     "uniqueTo": "Germany",
     "cost": 0,
-    "uniques": ["Unsellable","Discover [Mining]"]
+    "uniques": ["Unsellable","Discover [Mining]","Only available <in [in capital] cities>"]
+  },
+  {
+    "name": "Популяция",
+    "uniqueTo": "Germany",
+    "cost": 0,
+    "uniques": ["Unsellable","[-1] population [in this city]","Only available <in [in capital] cities>"]
   },
 ]
