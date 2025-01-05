@@ -44,7 +44,6 @@
                 "strength": 1,
                 "cost": 0,
                 "uniques": ["Unavailable", "Withdraws before melee combat <with [70]% chance>"]
-                "upgradesTo": "Swordsman",
                 "attackSound": "nonmetalhit"
   }
 ]
