@@ -4,8 +4,9 @@
         "Enables Open Borders agreements <starting from the [Ancient era]>",
         "[+4 Food] [in capital] <for [Machinia]>",
         "[-20]% [Food] [in all cities] <for [Tianwu]>",
-        // "[-2 Food] [in capital] <for [Bulgaria]> <before turn number [25]>",
-// "[+10 Faith] [in capital] <for [Venezuela]>",
+        "[-2 Food] [in capital] <for [Bulgaria]> <before turn number [25]>",
+        "[+10 Faith] [in capital] <for [Venezuela]>",
+        "[+1 Food] from [River] tiles [in capital]
         "[+1 Food, +1 Production, +1 Gold] [in all cities] <for [Vedic]>", 
         "[-30]% growth [in all cities] <for [Cavegoa]>", 
         
