@@ -2,7 +2,7 @@
 {
 		"name": "Английский Лагерь",
     "uniqueTo": "England",
-	"terrainsCanBeBuiltOn": ["All"],
+	"terrainsCanBeBuiltOn": [ ],
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
     "gold": 4,
@@ -11,7 +11,7 @@
 {
 		"name": "Болгарский Лагерь",
     "uniqueTo": "Bulgaria",
-	"terrainsCanBeBuiltOn": ["All"],
+	"terrainsCanBeBuiltOn": [ ],
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
     "gold": 4,
@@ -20,7 +20,7 @@
 {
 		"name": "Норвежский Лагерь",
     "uniqueTo": "Norway",
-	"terrainsCanBeBuiltOn": ["All"],
+	"terrainsCanBeBuiltOn": [ ],
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
     "gold": 4,
