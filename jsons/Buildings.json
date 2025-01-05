@@ -5,4 +5,10 @@
     "cost": 0,
     "uniques": ["Unsellable","Free [Фир] appears","Free [Алагир] appears"]
   },
+  {
+    "name": "Технология",
+    "uniqueTo": "Germany",
+    "cost": 0,
+    "uniques": ["Unsellable","Discover [Mining]"]
+  },
 ]
