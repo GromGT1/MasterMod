@@ -23,4 +23,10 @@
     "cost": 0,
     "uniques": ["Unsellable","[-1] population [in this city]","Only available <in [in capital] cities>"]
   },
+    {
+    "name": "Популяция России 2",
+    "uniqueTo": "Russia",
+    "cost": 0,
+    "uniques": ["Unsellable","[-1] population [in this city]","Only available <in [in capital] cities>"]
+    },
 ]
