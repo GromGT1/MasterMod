@@ -5,6 +5,7 @@
         "[+4 Food] [in capital] <for [Machinia]>",
         "[-20]% [Food] [in all cities] <for [Tianwu]>",
         // "[-2 Food] [in capital] <for [Bulgaria]>",
+// "[+10 Faith] [in capital] <for [Venezuela]>",
         "[+1 Food, +1 Production, +1 Gold] [in all cities] <for [Vedic]>", 
         "[-30]% growth [in all cities] <for [Cavegoa]>", 
         
