@@ -18,7 +18,7 @@
                 "uniqueTo": "Gamemaster nation",
                 "replaces": "Scout",
                 "movement": 4,
-                "strength": 5,
+                "strength": 4,
                 "cost": 0,
                 "obsoleteTech": "Metal Casting",
                 "promotions": ["Способность"],
