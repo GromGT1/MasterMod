@@ -2,7 +2,7 @@
  {
     "name": "Расшифровка надписи",
     "uniqueTo": "Bulgaria",
-    "cost": 30,
+    "cost": 45,
     "uniques": ["Unsellable","Only available <in [in capital] cities>"]
   },
   {
