@@ -1,4 +1,10 @@
 [
+ {
+    "name": "Расшифровка надписи",
+    "uniqueTo": "Bulgaria",
+    "cost": 30,
+    "uniques": ["Unsellable","Only available <in [in capital] cities>"]
+  },
   {
     "name": "Трейд",
     "uniqueTo": "Russia",
