@@ -1,0 +1,8 @@
+[
+{
+		"name": "Болгарский Перец",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains", "Snow", "Tundra"],
+		"food": 2,
+	},
+]
