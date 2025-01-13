@@ -5,6 +5,18 @@
     "cost": 45,
     "uniques": ["Unsellable","Only available <in [in capital] cities>"]
   },
+ {
+    "name": "Исследование Укреплений",
+    "uniqueTo": "Russia",
+    "cost": 45,
+    "uniques": ["Unsellable","Only available <in [in capital] cities>"]
+  },
+ {
+    "name": "Исследование Лошадей",
+    "uniqueTo": "Spain",
+    "cost": 45,
+    "uniques": ["Unsellable","Only available <in [in capital] cities>"]
+  },
   {
     "name": "Трейд",
     "uniqueTo": "Russia",
