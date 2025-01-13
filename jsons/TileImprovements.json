@@ -9,6 +9,13 @@
 		"uniques": ["Provides [1] [Furs]","Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>","Pillaging this improvement yields approximately [+10 Gold]"],
 	},
 {
+		"name": "Поиск Семян",
+    "uniqueTo": "Bulgaria",
+	"terrainsCanBeBuiltOn": ["Plains","Tundra","Snow"],
+		"turnsToBuild": 7,
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+	},	
+{
 		"name": "Болгарский Лагерь",
     "uniqueTo": "Bulgaria",
 	"terrainsCanBeBuiltOn": ["Plains","Tundra","Snow"],
