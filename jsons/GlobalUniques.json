@@ -6,7 +6,7 @@
         "[+2 Faith] [in capital] <for [Venezuela] Civilizations>",
         "[+1 Food] from [River] tiles [in capital] <for [Spain] Civilizations> <before turn number [25]>",
         "[-1] Sight <for [All] units> <for [Norway] Civilizations> <before turn number [25]>",
-        "[+33]% Strength <vs [Barbarian] units>",
+        "[+33]% Strength <vs [Barbarian] units> <for [Norway] Civilizations>",
         "[+2] Movement <for [All] units> <for [Bulgaria] Civilizations> <in [Fallout] tiles>",
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
